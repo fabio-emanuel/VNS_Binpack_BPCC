@@ -17,19 +17,6 @@ The article PDF is included in this repository for reference.
 
 > ⚠️ **Note:** Although I am one of the authors of the article, the implementation available in this repository **differs in some aspects** from the algorithm described in the paper. Specifically, the shaking and local search neighborhood structures, as well as the VNS control logic, were adapted and extended beyond what is formally described in the publication.
 
----
-
-## 🗂️ Repository Contents
-
-```
-.
-├── heuristicas_bpc4_comentado.cpp   # Fully commented C++ source code
-├── VNS_bptc-main-1.pdf              # Reference article (PDF)
-├── BPCC_Instances.zip               # Set of benchmark instances for testing
-├── P-n23-k8.txt                     # Example instance file
-├── nao_confl.txt                    # Example conflict/compatibility file
-└── README.md
-```
 
 ---
 
