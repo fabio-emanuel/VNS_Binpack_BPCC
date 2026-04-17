@@ -136,7 +136,7 @@ sudo apt install g++
 
 ### Compile
 ```bash
-g++ -O2 heuristicas_bpc4_comentado.cpp -o bpc -lm
+g++ heuristicas_bpc4_comentado.cpp -o bpc -lm
 ```
 
 ### Run
